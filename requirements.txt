@@ -13,6 +13,9 @@ sendgrid==6.6.0
 
 Flask
 
+# heroku needs to use this package to run our web app on the server
+gunicorn
+
 
 #
 # TEST
